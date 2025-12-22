@@ -1,0 +1,3 @@
+PS D:\WST\python\Lab(information)> .\.venv\Scripts\Activate.ps1       
+(.venv) PS D:\WST\python\Lab(information)> python '.\Lab6(information)\mat.py'
+(.venv) PS D:\WST\python\Lab(information)> 
